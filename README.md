@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi 👋 I'm Madesh S
 
-<!--
-**Shiva134-ui/Shiva134-ui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Aspiring DevOps & Cloud Engineer
 
-Here are some ideas to get you started:
+I am a Computer Science Engineering student passionate about DevOps, Cloud Computing, Linux, and Networking.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Currently Learning
+- Linux
+- Docker
+- Git & GitHub
+- Go
+- Networking
+- AWS (Learning)
+
+### Skills
+- Linux
+- Docker
+- Git
+- GitHub
+- Python
+- Java
+- JavaScript
+- HTML
+- CSS
+- MongoDB
+- Firebase
+- Networking
+
+### Portfolio
+🌐 https://madesh.in
+
+### LinkedIn
+💼 (Your LinkedIn URL)
+
+### Goals
+- Become a DevOps Engineer
+- Build enterprise-grade infrastructure projects
+- Contribute to open source
