@@ -30,7 +30,7 @@ I am a Computer Science Engineering student passionate about DevOps, Cloud Compu
 🌐 https://madesh.in
 
 ### LinkedIn
-💼 (Your LinkedIn URL)
+💼 (Your LinkedIn URL)](https://www.linkedin.com/in/madesh-s-927138328/)
 
 ### Goals
 - Become a DevOps Engineer
