@@ -1,4 +1,8 @@
 <h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi+👋+I'm+S.+Madesh;Aspiring+DevOps+Engineer;Linux+|+Docker+|+Cloud;Building+Awesome+Projects🚀" />
+</h1>
+
+<h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B+I'm+S.+Madesh;Aspiring+DevOps+Engineer;Linux+%7C+Docker+%7C+Cloud+%7C+AWS;Building+Projects+%26+Learning+Every+Day+%F0%9F%9A%80" alt="Typing SVG" />
 </h1>
 
