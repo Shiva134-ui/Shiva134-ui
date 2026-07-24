@@ -1,0 +1,26 @@
+<svg width="1200" height="120" viewBox="0 0 1200 120" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="none">
+  <defs>
+    <linearGradient id="waveGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00F7FF" stop-opacity="0.55"/>
+      <stop offset="50%" stop-color="#7C3AED" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#22C55E" stop-opacity="0.55"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="120" fill="none"/>
+  <path fill="url(#waveGrad)" opacity="0.9">
+    <animate attributeName="d" dur="6s" repeatCount="indefinite"
+      values="
+      M0,60 C150,110 350,10 600,60 C850,110 1050,10 1200,60 L1200,120 L0,120 Z;
+      M0,60 C150,10 350,110 600,60 C850,10 1050,110 1200,60 L1200,120 L0,120 Z;
+      M0,60 C150,110 350,10 600,60 C850,110 1050,10 1200,60 L1200,120 L0,120 Z
+      "/>
+  </path>
+  <path fill="#0a0f1f" opacity="0.55">
+    <animate attributeName="d" dur="8s" repeatCount="indefinite"
+      values="
+      M0,80 C200,40 400,110 600,80 C800,50 1000,110 1200,80 L1200,120 L0,120 Z;
+      M0,80 C200,110 400,40 600,80 C800,110 1000,50 1200,80 L1200,120 L0,120 Z;
+      M0,80 C200,40 400,110 600,80 C800,50 1000,110 1200,80 L1200,120 L0,120 Z
+      "/>
+  </path>
+</svg>
