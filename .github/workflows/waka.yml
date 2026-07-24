@@ -1,0 +1,27 @@
+name: Update WakaTime Coding Stats
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    name: Update coding activity
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate WakaTime readme stats
+        uses: athul/waka-readme@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        env:
+          INPUT_SHOWTITLE: "true"
+          INPUT_BLOCKS: "▓"
+          INPUT_SECTIONNAME: "waka"
+          INPUT_COMMITMESSAGE: "chore(waka): update coding activity"
